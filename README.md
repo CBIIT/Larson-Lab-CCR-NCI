@@ -3,7 +3,7 @@ Collection of KNIME workflows, IDL scripts, R-statistical analysis scripts (.Rmd
 ## Updates:
 
 ### July 3rd, 2019
-KNIME (version 3.2.1, version 3.5.x) Image Analysis Workflows, R markdown scripts.
+KNIME (version 3.2.1, version 3.5.x) Image Analysis Workflows, R markdown scripts used in "Dynamic imaging of nascent RNA reveals general principles of transcription dynamics and stochastic splice site selection"
 
 ## Description of folders:
 [Wan_GeneTrap_2019](https://github.com/CBIIT/Larson-Lab-CCR-NCI/tree/master/Wan_GeneTrap_2019)
