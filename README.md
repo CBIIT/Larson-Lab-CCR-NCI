@@ -3,10 +3,10 @@ Collection of KNIME workflows, IDL scripts, R-statistical analysis scripts (.Rmd
 ## Updates:
 
 ### July 3rd, 2019
-KNIME (version 3.2.1, version 3.5.x) Image Analysis Workflows, R markdown scripts, and secondary data for _[Wan et. al., 2019]()_.
+KNIME (version 3.2.1, version 3.5.x) Image Analysis Workflows, R markdown scripts.
 
 ## Description of folders:
-[Wan_GeneTrap_2019](https://github.com/CBIIT/Larson-Lab-CCR-NCI/tree/master/Wan_GeneTrap_2019): Wan _et. al._, "". _Submitted to _. Also at _[]()_.
+[Wan_GeneTrap_2019](https://github.com/CBIIT/Larson-Lab-CCR-NCI/tree/master/Wan_GeneTrap_2019)
 
 
 
